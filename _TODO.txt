@@ -1,0 +1,8 @@
+// 
+// NOTAS e TO DO
+// - detectar se o CSV está com separadores de , ou ; e fazer o import de acordo, sem gravar novo ficheiro.
+// - ver a função tint(). Saber se é possivel ter só uma imagem e colori-la independentemente
+// - 3D - Fazer a pista 3D
+// - 3D - Colocar o texto 3D
+// - Audio - Fazer relato
+//
